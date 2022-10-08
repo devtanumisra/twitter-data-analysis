@@ -1,0 +1,8 @@
+,POST_LINK,IMAGES_ID,POST_ID,Text,Text Type,Additional Comment Text,OCR Language of Text,Hate Speech ,Profane ,Sentiment,Targeted Insult 
+0,,100000,1000,Exactly,Additional_Comment,English,English,FALSE,FALSE,Neutral,NO
+1,,100001,1000,Khaali say baygaar bhali,Additional_Comment,Hindi,English,TRUE,TRUE,Negative,YES
+2,,100002,1000,The beard says it all. The useless man he is ,Image_Captioning,English,English,TRUE,TRUE,Negative,YES
+3,,100003,1000,Right,OCR_Text,English,English,FALSE,FALSE,Positive,YES
+4,,100004,1000,When you have completely destroyed the whole economy and have nothing to do!,OCR_TEXT,English,English,TRUE,TRUE,Negative,YES
+5,,100005,1001,Happy Birthday,Additional_Comment,English,English,FALSE,FALSE,Positive,YES
+6,,100006,1001,Happy Birthday NAMO,Additional_Comment,English,English,FALSE,FALSE,Positive,NO
