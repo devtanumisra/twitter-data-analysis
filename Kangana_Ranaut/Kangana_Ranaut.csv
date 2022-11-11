@@ -1,0 +1,915 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12
+POST_ID,POST_LINK,IMAGES_ID,Text,Text Type,MEDIA_URL,Text OCR,Language of Text,Hate Speech,Profane,Sentiment,Targeted Insult
+P:1587283686491271168,,,RT @jayasri10964921: ??? ?? ??? ???? ?? ??? ???? v ?????? ????? ???? ?? ??,Caption,NA,,,FALSE,FALSE,NEGATIVE,YES
+P:1587280023140306946,,,RT @jayasri10964921: ??? ?? ??? ???? ?? ??? ???? v ?????? ????? ???? ?? ??,Caption,NA,,,FALSE,FALSE,NEGATIVE,YES
+P:1587262115391635457,,,@TheKangnaRanut Right,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,YES
+P:1587262115391635457,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1587262115391635457,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587262115391635457,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587245120595689472,,,??? ?? ??? ???? ?? ??? ???? v ?????? ????? ???? ?? ?? https://t.co/EX7HRcHCY8,Caption,https://t.co/EX7HRcHCY8,,,TRUE,FALSE,NEGATIVE,YES
+P:1587238575984082945,,,Yes https://t.co/q8MavpsLkg,Caption,https://t.co/q8MavpsLkg,,,FALSE,FALSE,POSITIVE,NO
+P:1587224430635323392,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587224430635323392,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587224430635323392,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587224430635323392,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587224430635323392,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,YES
+P:1587224430635323392,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587224430635323392,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587224430635323392,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587224430635323392,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1587224430635323392,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587224430635323392,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut @Asksindia_ ??,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587184410541293569,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587184410541293569,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587184410541293569,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587184410541293569,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587148834781556736,,FgavcL4VsAIU-QZ.jpg,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Caption,https://t.co/hD6cqcCbed,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1587148834781556736,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587148834781556736,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587137195970027520,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587133657026035712,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587125644693237760,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587107172541878273,,,RT @gorechariddhi_: @TheKangnaRanut ? ??? ???? ??? ?? ??????  ???? ?? ??????? ???.. ???? ?? ??? ???? ???? ?????  ????? ?? ???? ??  ?? ?????…,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587102485885628418,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587089591462670336,,RrcbETBJu1_rOe50.jpg,RT @Sriniba90545602: @TheKangnaRanut https://t.co/RUAertxB2e,Caption,https://t.co/RUAertxB2e,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Caption,NA,,,TRUE,FALSE,POSITIVE,YES
+P:1587088644463992833,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1587088644463992833,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587088644463992833,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1587082848476995585,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587082848476995585,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Absolutely,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,NO
+P:1587079514206576647,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079514206576647,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,FgZwAN1UYAEqXBt.jpg,@TheKangnaRanut https://t.co/fPQNlD89AP,Caption,https://t.co/fPQNlD89AP,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,NO
+P:1587079075868585985,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079075868585985,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,FgZv_PpVUAAyCI7.jpg,@TheKangnaRanut https://t.co/oQrtugrRg3,Caption,https://t.co/oQrtugrRg3,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,FALSE,NEGATIVE,NO
+P:1587079060639068162,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587079060639068162,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587065269033537537,,,@TheKangnaRanut Well done madam ji,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587065269033537537,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587065269033537537,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587065269033537537,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587065269033537537,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587065269033537537,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587065269033537537,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587065269033537537,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587065269033537537,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587065269033537537,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587065269033537537,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 @TheKangnaRanut,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 ?? ?? ??????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @JiyaRajput_ @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 ???? ????? ??????????????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 Har har Mahadew,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 ?? ?? ???? ??????? ?????? ?? ??????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 Har har Mahadev,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,"@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 https://t.co/3gjkDFMyP1
+
+Follow us on YouTube. 
+Subscribe our YouTube Channel. 
+
+#MS-Excel #tutorial #TEXTAFTER #FUNCTION",Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 ??????????Har Har Mahadev????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 ?? ?? ??????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 Om Namah Shivay ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587064271573319682,,,@itsmeriya123 @IndiaTales7 @VertigoWarrior @BattaKashmiri @ramapriya1989 @iAjaySengar @Anti_Congressi @DeepaShreeAB @SheetalPronamo @Ankit___IND @mariawirth1 Har har mahadev ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587063305230848006,,,@TheKangnaRanut https://t.co/Tg41rkKaPF,Caption,https://t.co/Tg41rkKaPF,,,FALSE,FALSE,NEUTRAL,NO
+P:1587062780133138432,,,RT @GaneshD54538122: @TheKangnaRanut ??? ??? ?? ???? ???? ?? ?????? ??? ???? ???? ????? ?? ??? ?? ??? ?? ?? ????? ????? ?? ????? ??? ?????…,Caption,NA,,,FALSE,FALSE,NEUTRAL,YES
+P:1587062408572387330,,RrcbETBJu1_rOe50 (1).jpg,RT @Sriniba90545602: @TheKangnaRanut https://t.co/RUAertxB2e,Caption,https://t.co/RUAertxB2e,,,FALSE,FALSE,NEUTRAL,NO
+P:1587062221963546624,,CoxDffw44jKgIvze.jpg,RT @ramsingh54851: @TheKangnaRanut @Asksindia_ CBI ???? ?? ?? ?? ????? https://t.co/Guy1IssDp9,Caption,https://t.co/Guy1IssDp9,,,FALSE,FALSE,NEUTRAL,NO
+P:1587060991204151297,,,@TheKangnaRanut https://t.co/Tg41rkKIFd,Caption,https://t.co/Tg41rkKIFd,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,RrcbETBJu1_rOe50 (2).jpg,@TheKangnaRanut https://t.co/RUAertxB2e,Caption,https://t.co/RUAertxB2e,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587051721670668288,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587051721670668288,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587051721670668288,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587032607778570241,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587032607778570241,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587032607778570241,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587032607778570241,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587027719736659968,,,@TheKangnaRanut How many fake IDs you have? Dikra,Caption,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587027719736659968,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587027719736659968,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587027719736659968,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587027719736659968,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587027719736659968,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587027719736659968,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587027719736659968,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587027719736659968,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587027719736659968,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587027719736659968,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587025754209939456,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587025754209939456,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587025754209939456,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587025754209939456,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587025754209939456,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,CoxDffw44jKgIvze (1).jpg,@TheKangnaRanut @Asksindia_ CBI ???? ?? ?? ?? ????? https://t.co/Guy1IssDp9,Caption,https://t.co/Guy1IssDp9,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587023146397634560,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587023146397634560,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587023146397634560,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587023146397634560,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut Kar lo inquiry...lol,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587022639813783552,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587022639813783552,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587022639813783552,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587022639813783552,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut ? ??? ???? ??? ?? ??????  ???? ?? ??????? ???.. ???? ?? ??? ???? ???? ?????  ????? ?? ???? ??  ?? ????? ??? ???... #KejriwalExposed  shame @KejaksaanRI shame @INCIndia??,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003982526189568,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003982526189568,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003982526189568,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003982526189568,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut Ha honi chahiye mam,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003840821612544,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003840821612544,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003840821612544,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003840821612544,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003840821612544,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003433856270338,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Caption,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003433856270338,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003433856270338,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003433856270338,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587003433856270338,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003433856270338,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003433856270338,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587003433856270338,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587003433856270338,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003433856270338,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003433856270338,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003016275759107,,,@TheKangnaRanut Agree with you,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003016275759107,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003016275759107,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587003016275759107,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587003016275759107,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587003016275759107,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587001834711158784,,,@TheKangnaRanut Fake,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587001834711158784,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1587001834711158784,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587001834711158784,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587001834711158784,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587001834711158784,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587001834711158784,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587001834711158784,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1587001834711158784,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1587001834711158784,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1587001834711158784,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586968183424290816,,,@TheKangnaRanut ??? ?? ????? ??? ???? ????? ???? ????? ??? ??? ????? ??? ?? ???????? ?? ?? ????-???? ?????? ?? ??? ???? ???,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586968183424290816,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586968183424290816,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586968183424290816,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586968183424290816,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586968183424290816,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut https://t.co/qDRU2d4KID,Caption,https://t.co/qDRU2d4KID,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586962381363552256,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586962381363552256,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586962381363552256,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586962381363552256,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,"@UnSubtleDesi @elonmusk Your article is for you to read like @TheKangnaRanut movie for her to watch...
+Nobody in this world would like to read or watch bogeys.",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@Gmz999Emma @UnSubtleDesi @elonmusk Like the MSM has been doing to Trump for 6 years?,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,"@UnSubtleDesi @elonmusk to the Right, ""freedom of speech"" means ""freedom to deceive.""",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@UnSubtleDesi @elonmusk There are only two wings right wing and the wrong wing.,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@UnSubtleDesi @elonmusk Are you sure #Musk is at our side Nupur?! https://t.co/Bj7mrQKFSY,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,"@UnSubtleDesi @elonmusk Not all the left are the same,
+
+and 
+
+not all the right are the same.
+
+get over it.",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,"@UnSubtleDesi @elonmusk Hmm,.. PPDM 8,..
+solid.  saved.
+
+i shall additionally test your petrification claim,
+by shifting one buttock aside, to make how my living room should now smell, after your sh** has entered it,..
+
+hmm... nnnope.  moving just fine.",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@UnSubtleDesi @rahulroushan @elonmusk That awkward moment when left is petrified of free speech and the non left is promoting it,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@UnSubtleDesi @elonmusk Do you mean jewCabal? for else I am not interested.,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586959307421384705,,,@UnSubtleDesi @elonmusk Garbage article like every single one you write. Musk literally spread fake news to attack Clinton and Paul Pelosi.,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586959307421384705,,,@UnSubtleDesi @elonmusk https://t.co/9snCeRb9VH,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,"@TheKangnaRanut @idineshdesai ???? ?? ???? ???? ??, ??? ????? ?????? ??",Caption,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586948511127719937,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586948511127719937,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586948511127719937,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586948511127719937,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586948511127719937,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,FgX4o3HUcAAjbPM.jpg,"@TheKangnaRanut ??? ??? ?? ???? ???? ?? ?????? ??? ???? ???? ????? ?? ??? ?? ??? ?? ?? ????? ????? ?? ????? ??? ???????? ???? ???? ?? ??? 
+?? ????? ?? ?? ?????? ?  
+ #morbi https://t.co/oHHyHKxVF1",Caption,https://t.co/oHHyHKxVF1,,,TRUE,FALSE,NEGATIVE,YES
+P:1586947827904937985,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586947827904937985,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586947827904937985,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586947827904937985,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut @Asksindia_ Bhai flow back dijiye,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586946313832525824,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586946313832525824,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586946313832525824,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut @Asksindia_ ??????? ?? ???? ??????,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,POSITIVE,YES
+P:1586945906674266117,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945906674266117,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut ????? ???!,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586945796360269824,,,@TheKangnaRanut Right,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586945796360269824,,,@TheKangnaRanut Jaach pad? taal honi chaahiye; https://t.co/hD6cqcCbed,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut @Asksindia_ ???? ?????? ???? ?? ?????? ?? ???? ???? ????? ???? ?? ?????? ?? ?? ???? ???? ????? ???? ??? ???? ????? ????? ????? ??? ?? ?????,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586945796360269824,,,"@TheKangnaRanut ???????? ?? ???? ?????? ?? ?? ???? ????? ???? ???? ?? ?? ???? ????? ?? ? ??? ??? ? ??? ??
+ ??? ?? ??? 
+????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut Absolutely,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586945796360269824,,,@TheKangnaRanut https://t.co/fPQNlD89AP,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut https://t.co/oQrtugrRg3,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut https://t.co/RUAertxB2e,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut Yes CBI jaanch honi chahiye,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586945796360269824,,,@TheKangnaRanut Agree @Bhupendrapbjp CBI Inquiry,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586916134158471168,,,"RT @DILESWHAR1: @iRitupriya_ @iRitupriya_ 
+@raiananya233 
+@noor_mah1 
+@TheKangnaRanut 
+@DILESWHAR1 
+@GURJAR__SAAB 
+Follow ??????",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,"@iRitupriya_ @iRitupriya_ 
+@raiananya233 
+@noor_mah1 
+@TheKangnaRanut 
+@DILESWHAR1 
+@GURJAR__SAAB 
+Follow ??????",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,@iRitupriya_ ????????????????????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586914822364401665,,,"@Rcj_63 @iRitupriya_ @B52officail @SinghDevikas @SunilPtp @ganseykid @Nc_1003 #GoodMorningEveryone
+@Jisanmayal
+???????????? &amp; ?????? ???????????? ???????? ??% 5 min??
+1????????  % ???????????? ????????",Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,@iRitupriya_ @IvanEseet,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,@iRitupriya_ @appledesilver11,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,"@iRitupriya_ @B52officail ?? ???? ???? ?? ????? ???? ??? ???? ???? ??? ?????? ???? ???? ""????"" ??
+
+""????"" ???? ???? ????? ?? ????
+????@Rcj_63 ???? ????
+????@SinghDevikas
+????@SunilPtp
+????@ganseykid
+????@B52officail
+????@Nc_1003 3.5k??
+
+All friends Follow &amp; get Follow ????% ??
+
+?????????? &amp; ??????",Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586914822364401665,,,@iRitupriya_ ???????? ????,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586914822364401665,,,@iRitupriya_ Good morning ji ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586914822364401665,,,@iRitupriya_ @Kem9_8,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586914822364401665,,,"@iRitupriya_ ???? ?? ??? ?????, ???? ??????! #????????? ??",Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586914822364401665,,,@iRitupriya_ Jay Shri Ram ?? bahna,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586870112971534336,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586870112971534336,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586870112971534336,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586870112971534336,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586870112971534336,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586870112971534336,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586870112971534336,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586870112971534336,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586870112971534336,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586870112971534336,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586870112971534336,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586802333509648384,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Caption,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586802333509648384,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586802333509648384,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586802333509648384,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586802333509648384,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586802333509648384,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586802333509648384,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586802333509648384,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586802333509648384,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586802333509648384,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586802333509648384,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586793953679925249,,,@TheKangnaRanut Welcome madam.,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586793953679925249,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586793953679925249,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586793953679925249,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586793953679925249,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586793953679925249,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586793953679925249,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586793953679925249,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586793953679925249,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586793953679925249,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586793953679925249,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586766415142735873,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586766415142735873,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586766415142735873,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586766415142735873,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586766415142735873,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586766415142735873,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut I follow you good you again on twitter wel come on Twitter,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586753945736646658,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586753945736646658,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586753945736646658,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586753945736646658,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586753945736646658,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586753945736646658,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586737953283674113,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586713702954594305,,,@TheKangnaRanut Aa gai dalli,Caption,NA,,,FALSE,TRUE,NEGATIVE,NO
+P:1586713702954594305,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586713702954594305,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586713702954594305,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586713702954594305,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586713702954594305,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586713702954594305,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586713702954594305,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586713702954594305,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586713702954594305,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586713702954594305,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710814584893440,,,@TheKangnaRanut Will watch ur activity here first...No more nafrat,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710814584893440,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710814584893440,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710814584893440,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710814584893440,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710814584893440,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710814584893440,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710814584893440,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710814584893440,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710814584893440,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710814584893440,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710404465856512,,,@TheKangnaRanut Are you real or fake.????,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710404465856512,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710404465856512,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710404465856512,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710404465856512,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710404465856512,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710404465856512,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710404465856512,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586710404465856512,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586710404465856512,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586710404465856512,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586702868123615232,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586696516361912326,,,@TheKangnaRanut ??? ?? ??? ????? ??? ?? ?? ?? ??????? ????,Caption,NA,,,TRUE,FALSE,NEGATIVE,NO
+P:1586696516361912326,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586696516361912326,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586696516361912326,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586696516361912326,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586696516361912326,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586696516361912326,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586696516361912326,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586696516361912326,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586696516361912326,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586696516361912326,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586696324476735493,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586690339900882945,,,@TheKangnaRanut Follow me 1st.,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586690339900882945,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586690339900882945,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586690339900882945,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586690339900882945,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586690339900882945,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586690339900882945,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586690339900882945,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586690339900882945,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586690339900882945,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586690339900882945,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687395109699584,,,@TheKangnaRanut Jarur next PM!!,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687395109699584,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687395109699584,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687395109699584,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687395109699584,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687395109699584,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687395109699584,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687395109699584,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687395109699584,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687395109699584,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687395109699584,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687156923559937,,,@RinkuGi52110404 @TheKangnaRanut ???? ??? ????? ??????  ?? ????????,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586687156923559937,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687156923559937,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687156923559937,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687156923559937,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687156923559937,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687156923559937,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687156923559937,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687156923559937,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687156923559937,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687156923559937,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687117308018688,,,"@TheKangnaRanut Great, Elon Musk hired you now..",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687117308018688,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687117308018688,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687117308018688,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687117308018688,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687117308018688,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687117308018688,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687117308018688,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586687117308018688,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586687117308018688,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687117308018688,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586687036823834624,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684998983520258,,,@TheKangnaRanut lol,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684998983520258,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684998983520258,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684998983520258,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684998983520258,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684998983520258,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684998983520258,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684998983520258,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684998983520258,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684998983520258,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684998983520258,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684808939196417,,,@TheKangnaRanut Fake I'd Sirf follower banane ke liye ?????????? kangna tweeter back woh bhi black id,Caption,NA,,,TRUE,FALSE,NEGATIVE,YES
+P:1586684808939196417,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684808939196417,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684808939196417,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684808939196417,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684808939196417,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684808939196417,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684808939196417,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684808939196417,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684808939196417,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684808939196417,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684709043478528,,FgUJU31UAAAWJlL.jpg,@TheKangnaRanut https://t.co/YO04u3n1VC,Caption,https://t.co/YO04u3n1VC,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684709043478528,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684709043478528,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684709043478528,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684709043478528,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684709043478528,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684709043478528,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684709043478528,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684709043478528,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684709043478528,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684709043478528,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684594421915650,,,@TheKangnaRanut You are welcome ??,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684594421915650,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684594421915650,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684594421915650,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684594421915650,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684594421915650,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684594421915650,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684594421915650,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684594421915650,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684594421915650,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586684594421915650,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586684347087785985,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586684119056097281,,,@TheKangnaRanut Chal jhuthi,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586684119056097281,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684119056097281,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684119056097281,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586684119056097281,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684119056097281,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684119056097281,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684119056097281,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586684119056097281,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586684119056097281,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586684119056097281,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586682983486230528,,,@TheKangnaRanut ????????,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682983486230528,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682983486230528,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682983486230528,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682983486230528,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682983486230528,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682983486230528,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682983486230528,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682983486230528,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682983486230528,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682983486230528,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682682813321216,,FgUHfDDacAEMqlx.jpg,@TheKangnaRanut @Asksindia_ https://t.co/2ray6zlGyj,Caption,https://t.co/2ray6zlGyj,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682682813321216,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682682813321216,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682682813321216,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682682813321216,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682682813321216,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682682813321216,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682682813321216,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586682682813321216,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586682682813321216,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586682682813321216,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681942124421122,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681152772767744,,,@TheKangnaRanut Welcome kangana ji,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681152772767744,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586681152772767744,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681152772767744,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681152772767744,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586681152772767744,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586681152772767744,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586681152772767744,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586681152772767744,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586681152772767744,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586681152772767744,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586676123282608128,,,"Truth forced @yogrishiramdev to speak, 
+otherwise, these atheist exists only for cruelty.
+@myogiadityanath @SadhguruJV
+@girirajsinghbjp 
+@TheKangnaRanut
+@AdvaitaKala
+@UnSubtleDesi
+@MrsGandhi
+https://t.co/ba1xYGMT71",Caption,https://t.co/ba1xYGMT71,,,FALSE,FALSE,NEGATIVE,NO
+P:1586675512277356545,,,@TheKangnaRanut Well come back,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586675512277356545,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586675512277356545,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586675512277356545,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586675512277356545,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586675512277356545,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586675512277356545,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586675512277356545,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586675512277356545,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586675512277356545,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586675512277356545,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586674554448990209,,,@TheKangnaRanut ??,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586674554448990209,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586674554448990209,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586674554448990209,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586674554448990209,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586674554448990209,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586674554448990209,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586674554448990209,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586674554448990209,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586674554448990209,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586674554448990209,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586673688057106432,,,@TheKangnaRanut Well come back Rastrpremmi queen,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586673688057106432,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586673688057106432,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586673688057106432,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586673688057106432,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586673688057106432,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586673688057106432,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586673688057106432,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586673688057106432,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586673688057106432,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586673688057106432,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586669660908318720,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586668354642878464,,,@TheKangnaRanut Flowback do ge,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586668354642878464,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586668354642878464,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586668354642878464,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586668354642878464,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586668354642878464,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586668354642878464,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586668354642878464,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586668354642878464,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586668354642878464,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586668354642878464,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586666465801162752,,,@TheKangnaRanut Really are you kangna ??follow me than i will belive ??,Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666465801162752,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666465801162752,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666465801162752,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666465801162752,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666465801162752,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666465801162752,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666465801162752,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666465801162752,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666465801162752,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666465801162752,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666179774406656,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666022748459008,,,@TheKangnaRanut ??,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666022748459008,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666022748459008,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666022748459008,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666022748459008,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666022748459008,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666022748459008,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666022748459008,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586666022748459008,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586666022748459008,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586666022748459008,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664652729389056,,,"@TheKangnaRanut ???? ????? ??,",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664652729389056,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664652729389056,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664652729389056,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664652729389056,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664652729389056,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664652729389056,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664652729389056,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664652729389056,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664652729389056,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664652729389056,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664555538939904,,,@TheKangnaRanut ?? ???,Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586664555538939904,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664555538939904,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664555538939904,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664555538939904,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664555538939904,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664555538939904,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664555538939904,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586664555538939904,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586664555538939904,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586664555538939904,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586663685288001536,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586662512715452416,,,"RT @PikaDetects: @TheKangnaRanut For what ??? To hear your scripts on SSR ??? AU ???
+Do you know Sushant Singh Rajput is Alive and he is ac…",Caption,NA,,,FALSE,FALSE,NEGATIVE,NO
+P:1586661452760633347,,FgT0LGVaUAI-4fE.jpg,@TheKangnaRanut ??????? https://t.co/saco95Rhys,Caption,https://t.co/saco95Rhys,,,FALSE,FALSE,NEUTRAL,NO
+P:1586661452760633347,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586661452760633347,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586661452760633347,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586661452760633347,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586661452760633347,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586661452760633347,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586661452760633347,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586661452760633347,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586661452760633347,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586661452760633347,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586661003450011649,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657820598239233,,,"@TheKangnaRanut Ghanta ????
+#KanganaRanaut",Caption,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657820598239233,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657820598239233,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657820598239233,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657820598239233,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657820598239233,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657820598239233,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657820598239233,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657820598239233,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657820598239233,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657820598239233,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657713484070912,,,"@TheKangnaRanut ????????
+
+Dekh kar maza aa raha hai, sab legends ki tarah Laut rahe hain
+
+Endgame ki tarah
+
+Trump, Kangana etc etc
+
+Welcome back madam",Caption,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657713484070912,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657713484070912,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657713484070912,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657713484070912,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657713484070912,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657713484070912,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657713484070912,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586657713484070912,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586657713484070912,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586657713484070912,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656259842854915,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656221993783298,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656118683881473,,,@TheKangnaRanut Welcome back c as kangana mam mix your masala,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656118683881473,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586656118683881473,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656118683881473,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656118683881473,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586656118683881473,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586656118683881473,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586656118683881473,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586656118683881473,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,POSITIVE,YES
+P:1586656118683881473,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586656118683881473,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586654892424306688,,,@TheKangnaRanut Aur kitne fake account aayenge is knjri k naam se??????,Caption,NA,,,FALSE,FALSE,NEGATIVE,YES
+P:1586654892424306688,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586654892424306688,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586654892424306688,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586654892424306688,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586654892424306688,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586654892424306688,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586654892424306688,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586654892424306688,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586654892424306688,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586654892424306688,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586652125471596545,,,"@TheKangnaRanut Welcome ji Jhansi ki Rani,hail to you for joining on twitter.",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586652125471596545,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586652125471596545,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586652125471596545,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586652125471596545,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586652125471596545,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586652125471596545,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586652125471596545,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586652125471596545,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586652125471596545,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586652125471596545,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586651840472489985,,,"RT @TheKangnaRanut: i'm back on twitter again 
+
+Plz kindly follow me @TheKangnaRanut",Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586649112916566016,,,@TheKangnaRanut Okay,Caption,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586649112916566016,,,@TheKangnaRanut Is that really u or someone made fake account on your name??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586649112916566016,,,@TheKangnaRanut @Asksindia_ ??,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586649112916566016,,,@TheKangnaRanut Well done madam ji,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586649112916566016,,,@TheKangnaRanut How many fake IDs you have? Dikra,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586649112916566016,,,@TheKangnaRanut ??? ?? ???? ???? ?? ???? ???? ??????? ?? ???,Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586649112916566016,,,@TheKangnaRanut Fake,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586649112916566016,,,@TheKangnaRanut ??? ?? ??? ?? ???? ?? ?? ? ?? ?? know ?? ?? ?? ??,Additional Comment,NA,,,FALSE,FALSE,NEUTRAL,NO
+P:1586649112916566016,,,"@Jahangi82877119 @ramsingh54851 @TheKangnaRanut Abe dogle ki bat nahi hai jabhi to aae din stone pelting ,k@mlesh tiwari aur udaipur khaniylal case jaese dekhna pada",Additional Comment,NA,,,TRUE,TRUE,NEGATIVE,YES
+P:1586649112916566016,,,@TheKangnaRanut Welcome madam.,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
+P:1586649112916566016,,,@TheKangnaRanut @Asksindia_ Welcome Back Mam,Additional Comment,NA,,,FALSE,FALSE,POSITIVE,NO
